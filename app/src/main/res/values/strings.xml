@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ejercicio_indiv_3_M_6</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">ToDo</string>
+    <string name="second_fragment_label">ToDo List</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="add_todo">Ingresar ToDo</string>
+    <string name="title_todo">"Registra tus ToDo"</string>
+    <string name="tv_date_in">Fecha de Ingreso</string>
+    <string name="tv_date">Fecha</string>
+    <string name="btn_add">Agregar ToDo</string>
+    <string name="btn_togo">Lista ToDo</string>
+    <string name="btn_back">Volver</string>
+    <string name="btn_all_delete">Eliminar Lista</string>
+    <string name="tv_todo">Tarea Ingresada</string>
+
+
+</resources>
